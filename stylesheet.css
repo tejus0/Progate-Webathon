@@ -1,0 +1,81 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    margin: 0;
+    font-family: "Lucida Grande";
+    background-color:#ff5e00 ;
+  }
+    title{
+      font-family:"Times New Roman";
+    }
+   .github{
+     display:inline-block
+   }
+   .linkedin{
+     display:inline-block
+   }
+  .welcome{
+    max-width: 1170px;
+    width: 100%;
+    padding: 200px 15px;
+    margin: 0 auto;
+    color:#fbff00;	
+    opacity: 0.4;
+    text-align:center;
+  }
+  span{
+      color:blueviolet;
+  }
+  .picture{
+   padding: 20px;
+  } 
+  top-right a{
+float:right;
+  }
+  .container {
+    max-width: 1170px;
+    width: 100%;
+    padding: 0 15px;
+    margin: 0 auto;
+  }
+  .fa {
+    margin-right: 5px;
+  }
+  
+  header {
+    height: 65px;
+    width: 100%;
+    background-color: rgba(34, 49, 52, 0.9);
+    position :fixed;
+    top: 0;
+    z-index: 10;
+  }
+  .middle-h{
+  float:center;
+  }
+  .middle-p{
+    float:center;
+  }
+  .footlogo{
+    width: 50px;
+
+  }
+  
+
+  
+  
+  .logo {
+    width: 124px;
+    margin-top: 20px;
+  }
+  
+  .header-left {
+    float: right;
+    padding: 10px;
+  }
+  .header-right{
+  text-align:center;
+  padding:20px;
+  margin:2px;
+  }
